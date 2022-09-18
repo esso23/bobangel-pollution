@@ -1,0 +1,11 @@
+{
+  "name": "bobangel-pollution",
+  "version": "1.0.0",
+  "factorio_version": "1.1",
+  "title": "Bob's & Angel's Proper Pollution",
+  "author": "Andrej Kmetík",
+  "contact": "",
+  "homepage": "",
+  "description": "Pollution balance for Bob's & Angel mods. Makes the game vs. biters harder in mid/late game. Early game is almost unaffected.",
+  "dependencies": [ "? bobassembly", "? bobelectronics", "? bobenemies", "? angelsbioprocessing", "? angelsindustries", "? bobmining", "? bobores", "? bobplates", "? bobpower", "? bobrevamp", "? bobtech", "? bobwarfare", "? angelspetrochem", "? angelsrefining", "? angelssmelting" ]
+}
